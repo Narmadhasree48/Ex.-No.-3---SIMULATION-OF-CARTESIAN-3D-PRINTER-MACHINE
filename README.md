@@ -118,7 +118,7 @@ In a 3D Cartesian printer, the spool is a cylindrical container that holds the f
 
 
 
-### Name: Narmadha sree S
+### Name: Narmadha sree.S
 ### Register Number:23000815
 
 ## Result: 
